@@ -51,37 +51,6 @@ Billing infrastructure platform enabling AI developers to monetize their tools w
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-## 💼 Professional Experience
-
-**Infrastructure & Cloud Solutions Engineer** | William Bain & Company  
-*Aug 2024 – Aug 2025 | Harare, Zimbabwe*
-
-Led cloud migration strategy and hybrid architecture design:
-- Architected hybrid cloud infrastructure connecting on-premises systems to cloud analytics platforms
-- Implemented site-to-site connectivity improving ERP availability across distributed operations
-- Designed data access gateway enabling reliable business intelligence and reporting
-
-**Cloud Security & IAM Engineer** | Kansai Plascon (Astra Paints)  
-*Aug 2024 – Oct 2025 | Harare, Zimbabwe*
-
-Strengthened security posture across cloud infrastructure:
-- Designed least-privilege access control models reducing over-provisioned accounts
-- Standardized IAM workflows improving security governance and audit readiness
-- Aligned security controls with operational requirements minimizing delivery friction
-
----
-
-## 🎓 Education
-
-**MS Data Analytics & Visualization** | Yeshiva University, Katz School  
-*Expected May 2027 | New York, NY*
-
-**BS Data Science & Informatics** | University of Zimbabwe  
-*June 2024 | GPA: 3.7*
-
----
-
 ## 🏆 Certifications
 
 - **AWS Solutions Architect – Associate** (SAA-C03)
