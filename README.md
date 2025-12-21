@@ -128,9 +128,10 @@ Explored tabular data augmentation techniques to improve HR analytics accuracy:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tinotendamaisiri&theme=github)
 
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinotendamaisiri&layout=compact&theme=radical&hide_border=true)
+
+---
+![LeetCode Stats](https://leetcard.jacoblin.cool/tinotendamaisiri?theme=dark&font=Inter)
 
 ---
 
