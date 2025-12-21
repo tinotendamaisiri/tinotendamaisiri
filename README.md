@@ -8,7 +8,7 @@ I build infrastructure that powers the next generation of AI products. Currently
 
 ## 🚀 What I'm Building
 
-### TydeWallet / Toolpass
+### Toolpass
 A universal credit system for AI tools that solves two critical problems:
 - **Payment friction**: 68% of international credit cards get declined on AI platforms
 - **Subscription fatigue**: Users juggle multiple AI tool subscriptions
@@ -85,7 +85,8 @@ Strengthened security posture across cloud infrastructure:
 ## 🏆 Certifications
 
 - **AWS Solutions Architect – Associate** (SAA-C03)
-- **AWS Data Engineer – Associate** (MLE-C01)
+- **AWS Machine Learning Engineer – Associate** (MLA-C01)
+- **AWS Data Engineer – Associate** (DEA-C01)
 - **AWS Cloud Practitioner** (CLF-C02)
 
 ---
@@ -123,9 +124,9 @@ Explored tabular data augmentation techniques to improve HR analytics accuracy:
 
 ## 📈 GitHub Stats
 
-![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinotendamaisiri&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinotendamaisiri&layout=compact&theme=radical&hide_border=true)
 
 ---
 
