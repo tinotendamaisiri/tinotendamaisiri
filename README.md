@@ -131,6 +131,7 @@ Explored tabular data augmentation techniques to improve HR analytics accuracy:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinotendamaisiri&layout=compact&theme=radical&hide_border=true)
 
 ---
+## 📈 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Tinotenda_Maisiri?theme=dark&font=Inter)
 
 ---
