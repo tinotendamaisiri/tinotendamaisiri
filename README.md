@@ -125,6 +125,7 @@ Explored tabular data augmentation techniques to improve HR analytics accuracy:
 ## 📈 GitHub Stats
 
 ![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinotendamaisiri&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinotendamaaiosiri&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinotendamaisiri&layout=compact&theme=radical&hide_border=true)
 
