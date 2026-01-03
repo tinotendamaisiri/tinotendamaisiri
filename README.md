@@ -54,8 +54,6 @@ Billing infrastructure platform enabling AI developers to monetize their tools w
 ## 🏆 Certifications
 
 - **AWS Solutions Architect – Associate** (SAA-C03)
-- **AWS Machine Learning Engineer – Associate** (MLA-C01)
-- **AWS Data Engineer – Associate** (DEA-C01)
 - **AWS Cloud Practitioner** (CLF-C02)
 
 ---
