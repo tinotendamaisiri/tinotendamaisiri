@@ -1,22 +1,19 @@
-# Hey there, I'm Tino 👋
+## Hey there, I'm Tino 👋
 
 **Cloud Solutions Architect | Data Engineer | AI Infrastructure Builder**
 
-I build infrastructure that powers the next generation of AI products. Currently scaling [Tooltyde](https://tooltyde.com), a billing infrastructure platform serving 11,400+ AI developers, and developing TydeWallet—a universal identity and payment platform solving subscription fatigue across AI tools.
-
+I build scalable data and AI systems that turn complex real-world problems into structured, actionable solutions.  
+Currently building **TenantProof**, an AI-powered housing enforcement platform transforming tenant complaints into verified, court-ready evidence for city agencies and courts.
 ---
 
 ## 🚀 What I'm Building
 
-### Toolpass
-A universal credit system for AI tools that solves two critical problems:
-- **Payment friction**: 68% of international credit cards get declined on AI platforms
-- **Subscription fatigue**: Users juggle multiple AI tool subscriptions
+### TenantProof
 
-Load credits once, spend everywhere. Zero authentication burden for developers.
+From Complaint to Court-Ready Evidence.
 
-### Tooltyde
-Billing infrastructure platform enabling AI developers to monetize their tools with enterprise-grade payment processing, usage tracking, and subscription management.
+Cities receive thousands of housing complaints, but enforcement is slow and evidence collection is inconsistent.  
+TenantProof automates complaint intake, violation verification, and evidence packaging to make housing accountability scalable and enforceable.
 
 ---
 
