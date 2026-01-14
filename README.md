@@ -8,7 +8,7 @@ Currently building **TenantProof**, an AI-powered housing enforcement platform t
 
 ## 🚀 What I'm Building
 
-### TenantProof
+### ProofPack
 
 From Complaint to Court-Ready Evidence.
 
