@@ -3,7 +3,7 @@
 **Cloud Solutions Architect | Data Engineer | AI Infrastructure Builder**
 
 I build scalable data and AI systems that turn complex real-world problems into structured, actionable solutions.  
-Currently building **TenantProof**, an AI-powered housing enforcement platform transforming tenant complaints into verified, court-ready evidence for city agencies and courts.
+Currently building **ProofPack**, an AI-powered housing enforcement platform transforming tenant complaints into verified, court-ready evidence for city agencies and courts.
 ---
 
 ## 🚀 What I'm Building
